@@ -1,3 +1,3 @@
-flask
-flask_Bootstrap 
-textblob
+Flask==2.0.1
+Flask-Bootstrap==3.3.7.1
+TextBlob==0.15.3
