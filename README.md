@@ -1,4 +1,5 @@
-Sentiment Analysis Web Application
+**Sentiment Analysis Web Application**
+
 The Sentiment Analysis Web Application is a tool built with Flask, TextBlob, and Bootstrap for analyzing the sentiment and subjectivity of text data. Users can input text, and the application provides quick and insightful sentiment analysis results.
 
 Key Features:
